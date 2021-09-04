@@ -14,88 +14,88 @@ Presentación / Encuesta inicio de curso
 
 Fundamentos de programación en R: entorno, objectos, estructuras de datos, loops, control flow y funciones
 
-- [Introducción al entorno R] (clase_1/Clase 1 - Introduccion a R.nb.html)
-- [Loops, condicionales y funciones] (clase_1/Clase 1 - Loops, condicionales y funciones.nb.html)
-- [Ejercicios] (clase_1/Clase 1 - Ejercicios -Consignas .nb.html)
-- [Resueltos] (clase_1/Resueltos/Clase 1 - Ejercicios -Resueltos.R)
+- [Introducción al entorno R](clase_1/Clase 1 - Introduccion a R.nb.html)
+- [Loops, condicionales y funciones](clase_1/Clase 1 - Loops, condicionales y funciones.nb.html)
+- [Ejercicios](clase_1/Clase 1 - Ejercicios -Consignas .nb.html)
+- [Resueltos](clase_1/Resueltos/Clase 1 - Ejercicios -Resueltos.R)
 
 #### Datasets para ejercicios
-- [Dataset EPH] (Fuentes/usu_individual_T120.txt) 
+- [Dataset EPH](Fuentes/usu_individual_T120.txt) 
 
 ### Clase 3: 04-09
 
 Introducción al paquete Tidyverse: trabajo con datasets (`dplyr` y `tidyr`), fechas (`lubridate`), strings (`stringr`) y gráficos (`ggplot2`)
 
-- [Tidyverse] (clase_2/Clase 2 - Tidyverse.nb.html )
-- [Ejercicios] (clase_2/Clase 2 - Ejercicios.nb.html )
-- [Resueltos] (clase_2/resueltos)
+- [Tidyverse](clase_2/Clase 2 - Tidyverse.nb.html )
+- [Ejercicios](clase_2/Clase 2 - Ejercicios.nb.html )
+- [Resueltos](clase_2/resueltos)
 
 #### Datasets para ejercicios
 
-- [Dataset dólar] (Fuentes/dolar_oficial_ambito.csv)
-- [Dataset IPC] (Fuentes/ipc-mensual.csv)
-- [Dataset ataques tiburones] (Fuentes/ataques_tiburones.csv)
-- [Dataset EPH] (Fuentes/usu_individual_T120.txt) 
+- [Dataset dólar](Fuentes/dolar_oficial_ambito.csv)
+- [Dataset IPC](Fuentes/ipc-mensual.csv)
+- [Dataset ataques tiburones](Fuentes/ataques_tiburones.csv)
+- [Dataset EPH](Fuentes/usu_individual_T120.txt) 
 
 #### Material opcional
 
-- [Gráficos de kernels y tendencias] (clase_2/Clase 2 - Kernels y Tendencias (OPCIONAL).nb.html)
-- [Distintos tipos de Join] (clase_2/Clase 2. Distintos tipos de Join (OPCIONAL).nb.html)
+- [Gráficos de kernels y tendencias](clase_2/Clase 2 - Kernels y Tendencias (OPCIONAL).nb.html)
+- [Distintos tipos de Join](clase_2/Clase 2. Distintos tipos de Join (OPCIONAL).nb.html)
 
 ### Clase 4: 11-09
 
 Estimación y test de correlación entre 2 variables. Matrices de correlación: librerías `corrr` y `GGally` 
 
-- [Correlación] ()
+- [Correlación]()
 
 Análisis exploratorios, limpieza de datos, análisis de outliers e interpretación de los coeficientes de un modelo lineal simple
 
-- [Regresión Lineal Simple: Modelo e interpretación] ()
+- [Regresión Lineal Simple: Modelo e interpretación]()
 
 #### Dataset Notebook Modelo Lineal
 
-- [Dataset Encuesta Sueldos IT] ()
+- [Dataset Encuesta Sueldos IT]()
 
 ### Clase 5: 18-09
 
 Inferencia sobre los parámetros, test de significatividad global y R-cuadrado
 
-- [Regresión Lineal Simple: Evaluación y diagnóstico] ()
+- [Regresión Lineal Simple: Evaluación y diagnóstico]()
 
 Modelo lineal desde el enfoque de Machine Learning: random search y grid search de parámetros, función objetivo y métodos de optimización para hallar los valores de los parámetros
 
-- [Regresión Lineal Simple: Enfoque de Machine Learning] ()
+- [Regresión Lineal Simple: Enfoque de Machine Learning]()
 
 ### Clase 6: 25-09
 
 Diagnóstico de modelo lineal simple
 
-- [Regresión Lineal Simple: Evaluación y diagnóstico] ()
+- [Regresión Lineal Simple: Evaluación y diagnóstico]()
 
 Introducción a programación funcional con Tidyverse `PURRR`
 
-- [Tidyverse:PURRR] ()
+- [Tidyverse:PURRR]()
 
 ### Clase 7: 02-10
 
 Interpretación de coeficientes en Regresión Lineal Múltiple, inclusión de variables categóricas y test de significatividad individual
 
-- [Regresión Lineal Múltiple: Parte I] ()
+- [Regresión Lineal Múltiple: Parte I]()
 
 #### Dataset Notebook Modelo Lineal Múltiple
 
-- [Dataset Properati] ()
-- [Preprocesamiento Dataset Properati] ()
+- [Dataset Properati]()
+- [Preprocesamiento Dataset Properati]()
 
 ### Clase 8: 09-10
 
 Evaluación y diagnóstico del modelo. Explicación vs predicción
 
-- [Regresión Lineal Múltiple: Parte II] ()
+- [Regresión Lineal Múltiple: Parte II]()
 
 ### Clase 9: 16-10
 
-- [Tidy models] ()
+- [Tidy models]()
 
 ### Clase 10: 23-10
 
@@ -107,19 +107,19 @@ Regresión Logística: modelo de clasificación. Interpretación de coeficientes
 
 Problema del desbalanceo de clases: comportamiento del modelo, estrategia de oversampling y su efecto en el modelo  
 
-- [Regresion Logistica] ()
+- [Regresion Logistica]()
 
 ### Clase 12: 06-11
 
 Regularización: modelos Ridge, Lasso y Elastic Net y trade off sesgo-varianza
 
-- [Regularizacion: Ridge, Lasso y Elastic Net] ()
+- [Regularizacion: Ridge, Lasso y Elastic Net]()
 
 ### Clase 13: 13-11
 
 Smoothing, GAM y Prophet. 
 
-- [Prophet: implementacion de GAM para series de tiempo] ()
+- [Prophet: implementacion de GAM para series de tiempo]()
 
 ### Clase 14: 20-11
 
@@ -129,4 +129,4 @@ Examen final integrador.
 
 Redes Neuronales. 
 
-- [Redes I: Fully Conected Neural Networks] ()
+- [Redes I: Fully Conected Neural Networks]()
