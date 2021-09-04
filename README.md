@@ -14,10 +14,10 @@ Presentación / Encuesta inicio de curso
 
 Fundamentos de programación en R: entorno, objectos, estructuras de datos, loops, control flow y funciones
 
-- [Introducción al entorno R](clase 1/Clase 1 - Introduccion a R.nb.html)
-- [Loops, condicionales y funciones](clase 1/Clase 1 - Loops, condicionales y funciones.nb.html)
-- [Ejercicios](clase 1/Clase 1 - Ejercicios -Consignas .nb.html)
-- [Resueltos](clase 1/Resueltos/Clase 1 - Ejercicios -Resueltos.R)
+- [Introducción al entorno R](clase_1/Clase 1 - Introduccion a R.nb.html)
+- [Loops, condicionales y funciones](clase_1/Clase 1 - Loops, condicionales y funciones.nb.html)
+- [Ejercicios](clase_1/Clase 1 - Ejercicios -Consignas .nb.html)
+- [Resueltos](clase_1/Resueltos/Clase 1 - Ejercicios -Resueltos.R)
 
 #### Datasets para ejercicios
 - [Dataset EPH](Fuentes/usu_individual_T120.txt) 
@@ -26,9 +26,9 @@ Fundamentos de programación en R: entorno, objectos, estructuras de datos, loop
 
 Introducción al paquete Tidyverse: trabajo con datasets (`dplyr` y `tidyr`), fechas (`lubridate`), strings (`stringr`) y gráficos (`ggplot2`)
 
-- [Tidyverse](clase 2/Clase 2 - Tidyverse.nb.html )
-- [Ejercicios](clase 2/Clase 2 - Ejercicios.nb.html )
-- [Resueltos](clase 2/resueltos)
+- [Tidyverse](clase_2/Clase 2 - Tidyverse.nb.html )
+- [Ejercicios](clase_2/Clase 2 - Ejercicios.nb.html )
+- [Resueltos](clase_2/resueltos)
 
 #### Datasets para ejercicios
 
@@ -39,8 +39,8 @@ Introducción al paquete Tidyverse: trabajo con datasets (`dplyr` y `tidyr`), fe
 
 #### Material opcional
 
-- [Gráficos de kernels y tendencias](clase 2/Clase 2 - Kernels y Tendencias (OPCIONAL).nb.html)
-- [Distintos tipos de Join](clase 2/Clase 2. Distintos tipos de Join (OPCIONAL).nb.html)
+- [Gráficos de kernels y tendencias](clase_2/Clase 2 - Kernels y Tendencias (OPCIONAL).nb.html)
+- [Distintos tipos de Join](clase_2/Clase 2. Distintos tipos de Join (OPCIONAL).nb.html)
 
 ### Clase 4: 11-09
 
