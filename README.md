@@ -46,15 +46,15 @@ Introducción al paquete Tidyverse: trabajo con datasets (`dplyr` y `tidyr`), fe
 
 Estimación y test de correlación entre 2 variables. Matrices de correlación: librerías `corrr` y `GGally` 
 
-- [Correlación]()
+- [Correlación](clase 3/Clase-3---Correlacion.html)
 
 Análisis exploratorios, limpieza de datos, análisis de outliers e interpretación de los coeficientes de un modelo lineal simple
 
-- [Regresión Lineal Simple: Modelo e interpretación]()
+- [Regresión Lineal Simple: Modelo e interpretación](clase 3/Clase-3---Regresion-Lineal-Simple.html)
 
 #### Dataset Notebook Modelo Lineal
 
-- [Dataset Encuesta Sueldos IT]()
+- [Dataset Encuesta Sueldos IT](Fuentes/regresion_simple/encuesta_sueldos_sysarmy_2s2020.csv)
 
 ### Clase 5: 18-09
 
@@ -62,9 +62,9 @@ Inferencia sobre los parámetros, test de significatividad global y R-cuadrado
 
 - [Regresión Lineal Simple: Evaluación y diagnóstico]()
 
-Modelo lineal desde el enfoque de Machine Learning: random search y grid search de parámetros, función objetivo y métodos de optimización para hallar los valores de los parámetros
+Introducción a programación funcional con Tidyverse `PURRR`
 
-- [Regresión Lineal Simple: Enfoque de Machine Learning]()
+- [Tidyverse:PURRR]()
 
 ### Clase 6: 25-09
 
@@ -72,9 +72,9 @@ Diagnóstico de modelo lineal simple
 
 - [Regresión Lineal Simple: Evaluación y diagnóstico]()
 
-Introducción a programación funcional con Tidyverse `PURRR`
+Modelo lineal desde el enfoque de Machine Learning: random search y grid search de parámetros, función objetivo y métodos de optimización para hallar los valores de los parámetros
 
-- [Tidyverse:PURRR]()
+- [Regresión Lineal Simple: Enfoque de Machine Learning]()
 
 ### Clase 7: 02-10
 
@@ -95,13 +95,9 @@ Evaluación y diagnóstico del modelo. Explicación vs predicción
 
 ### Clase 9: 16-10
 
-- [Tidy models]()
+A definir 
 
 ### Clase 10: 23-10
-
-Parcial
-
-### Clase 11: 30-10
 
 Regresión Logística: modelo de clasificación. Interpretación de coeficientes, métricas y gráficos de evaluación del modelo y evaluación de performance. 
 
@@ -109,17 +105,21 @@ Problema del desbalanceo de clases: comportamiento del modelo, estrategia de ove
 
 - [Regresion Logistica]()
 
-### Clase 12: 06-11
+### Clase 11: 30-10
 
 Regularización: modelos Ridge, Lasso y Elastic Net y trade off sesgo-varianza
 
 - [Regularizacion: Ridge, Lasso y Elastic Net]()
 
-### Clase 13: 13-11
+### Clase 12: 06-11
 
 Smoothing, GAM y Prophet. 
 
 - [Prophet: implementacion de GAM para series de tiempo]()
+
+### Clase 13: 13-11
+
+Repaso pre-parcial.
 
 ### Clase 14: 20-11
 
