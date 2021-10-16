@@ -70,34 +70,44 @@ Introducción a programación funcional con Tidyverse `PURRR`
 
 Diagnóstico de modelo lineal simple
 
-- [Regresión Lineal Simple: Evaluación y diagnóstico]()
+- [Regresión Lineal Simple: Evaluación y diagnóstico](clase 4/Clase-4---Regresion-Lineal-Simple-Eval.html)
 
 Modelo lineal desde el enfoque de Machine Learning: random search y grid search de parámetros, función objetivo y métodos de optimización para hallar los valores de los parámetros
 
-- [Regresión Lineal Simple: Enfoque de Machine Learning]()
+- [Regresión Lineal Simple: Enfoque de Machine Learning](clase 5/modelo_lineal_enfoque_ml_resuelto.nb.html)
+
+Un ejemplo de Shiny App sobre Overfitting (basado en https://github.com/apapiu/Shiny-Apps)
+
+- [Shiny App](clase 5/shiny/overfitting/app.R)
 
 ### Clase 7: 02-10
 
 Interpretación de coeficientes en Regresión Lineal Múltiple, inclusión de variables categóricas y test de significatividad individual
 
-- [Regresión Lineal Múltiple: Parte I]()
+- [Regresión Lineal Múltiple: Parte I](clase 6/Clase 6 - Regresion Lineal Multiple.nb.html)
 
 #### Dataset Notebook Modelo Lineal Múltiple
 
-- [Dataset Properati]()
-- [Preprocesamiento Dataset Properati]()
+- [Dataset Properati](Fuentes/ar_properties.csv)
+- [Preprocesamiento Dataset Properati](clase 6/Preprocesamiento Dataset Properati.nb.html)
 
-### Clase 8: 09-10
+### Clase 8: 16-10
 
-Evaluación y diagnóstico del modelo. Explicación vs predicción
+Evaluación y diagnóstico del modelo. Explicación vs predicción.
 
-- [Regresión Lineal Múltiple: Parte II]()
+- [Regresión Lineal Múltiple: Parte II](clase 7/Clase 7 - Regresion Multiple II.nb.html)
 
-### Clase 9: 16-10
+#### Dataset Preprocesado Modelo Lineal Múltiple
 
-A definir 
+- [Datos Properati Preprocesados](clase 6/properati_preprocesado.csv)
 
-### Clase 10: 23-10
+### Clase 9: 23-10
+
+Extensiones del Modelo de Regresión Lineal Múltiple. 
+
+- [Extensiones Modelo Lineal Múltiple]()
+
+### Clase 10: 30-10
 
 Regresión Logística: modelo de clasificación. Interpretación de coeficientes, métricas y gráficos de evaluación del modelo y evaluación de performance. 
 
@@ -105,27 +115,23 @@ Problema del desbalanceo de clases: comportamiento del modelo, estrategia de ove
 
 - [Regresion Logistica]()
 
-### Clase 11: 30-10
+### Clase 11: 06-11
 
 Regularización: modelos Ridge, Lasso y Elastic Net y trade off sesgo-varianza
 
 - [Regularizacion: Ridge, Lasso y Elastic Net]()
 
-### Clase 12: 06-11
+### Clase 12: 13-11
 
 Smoothing, GAM y Prophet. 
 
 - [Prophet: implementacion de GAM para series de tiempo]()
 
-### Clase 13: 13-11
-
-Repaso pre-parcial.
-
-### Clase 14: 20-11
+### Clase 13: 27-11
 
 Examen final integrador. 
 
-### Clase 15: 27-11
+### Clase 14: 4-12
 
 Redes Neuronales. 
 
